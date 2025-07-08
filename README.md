@@ -21,4 +21,5 @@ This task demonstrated the power of mathematical optimization in decision-making
 
 Overall, Task 4 strengthened my problem-solving skills, especially in formulating and solving optimization problems programmatically. It also showed how data science can be applied to traditional business domains like operations and logistics, proving the versatility and impact of data-driven decision-making.
 output:
+<img width="387" height="139" alt="Image" src="https://github.com/user-attachments/assets/e41bce0c-5a39-4b5f-9a94-56d48273b9ca" />
 
